@@ -3,6 +3,7 @@ Delayed Drug Release App
 </span>  
 
 Developed using Pandas, Numpy, Dash, TensorFlow, and scikit-learn libraries  
+No AI tools were used in the development and coding of this project  
 ## by Josh Bartels [@Linkedin](https://www.linkedin.com/in/joshua-bartels-756309138/)
 
 # Overview / Goals
