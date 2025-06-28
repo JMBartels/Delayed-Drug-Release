@@ -126,7 +126,7 @@ def make_network(features,targets):
 - Here we can see the model reaches our desired quality around 30 epochs and does not extend into the over-fitting regime 
 
 # Wrap-up:
-Overall, we were able to take basic chemistry principles and develop a model in python to explore drug release mediated by drug design.  We have an interactive dashboard available on the web that allows the user to key into their desired performance through intuitive exploration. Finally, we simulated a large number of membrane designs and trained a neural network to predict the performance metrics from membrane design. 
+Overall, we were able to take basic chemistry principles and develop a model in python to explore drug release mediated by material design.  We have an interactive dashboard available on the web that allows the user to key into their desired performance through intuitive exploration. Finally, we simulated a large number of membrane designs and trained a neural network to predict the performance metrics from membrane design. 
 
 <p>&nbsp;</p>
 <span style="color:gray;font-size=8px">
